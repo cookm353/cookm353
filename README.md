@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m currently working on earning an IBM professional certificate in data science while also getting an AS in data analysis -->
-<!-- - 🌱 I’m currently learning ... -->
+<!-- - 🌱 I’m currently learning ...  -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about my progress learning how to play the guitar
