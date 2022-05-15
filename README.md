@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋, I'm Matt Cook
 
 <!--
 **cookm353/cookm353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: cookm353@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Did you know that the human head weighs 8 pounds?
+
+# 💻Tech Stack
