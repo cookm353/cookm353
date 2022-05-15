@@ -1,5 +1,5 @@
-<!-- <h1 style="text-align: center">Hi there 👋, I'm Matt Cook</h1> -->
-<div style="text-align: center;"># Hi there 👋, I'm Matt Cook</div>
+<h1 style="text-align: center">Hi there 👋, I'm Matt Cook</h1>
+<!-- <div style="text-align: center;"># Hi there 👋, I'm Matt Cook</div> -->
 
 <!--
 **cookm353/cookm353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
