@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Hi there 👋, I'm Matt Cook</h1>
+<h1 style="text-align: center;">Hi there 👋, I'm Matt Cook</h1>
 <!-- <div style="text-align: center;"># Hi there 👋, I'm Matt Cook</div> -->
 
 <!--
