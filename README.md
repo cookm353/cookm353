@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Did you know that the human head weighs 8 pounds?
 
-# 💻Tech Stack
+<h2> 💻Tech Stack</h2>
