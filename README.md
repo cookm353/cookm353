@@ -8,15 +8,15 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m currently working on earning an IBM professional certificate in data science while also getting an AS in data analysis -->
-<!-- - 🌱 I’m currently learning ...  -->
+- 🌱 I’m currently learning Node.js and Express 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about my progress learning how to play the guitar
 - 📫 How to reach me: cookm353@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Did you know that the human head weighs 8 pounds?
 
-<h2> 💻Tech Stack</h2>
+<!-- <h2> 💻Tech Stack</h2> -->
+## 💻Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 <!-- shields.io for more badges -->
