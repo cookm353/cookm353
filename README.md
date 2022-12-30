@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+<!-- ![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) -->
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
